@@ -1,1 +1,1 @@
-# Machine-Learnign-Pipeline-for-Beginners
+# Machine-Learning-Pipeline-for-Beginners
