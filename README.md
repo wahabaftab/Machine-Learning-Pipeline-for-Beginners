@@ -5,5 +5,4 @@ This is a beginners guide to complete Machine Learning Pipeline. You can find da
 Check out these blogs for detailed explanation:
 
 https://medium.com/geekculture/machine-learning-pipeline-for-beginners-retail-returns-dataset-part-i-2132cfcc9e6a
-
 https://medium.com/geekculture/machine-learning-pipeline-for-beginners-retail-returns-dataset-part-ii-57cd8b8a0743
